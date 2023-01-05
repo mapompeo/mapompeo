@@ -10,3 +10,5 @@
   <a href="https://www.instagram.com/__pompeo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" align="center" alt="Instagram icon" height="30em">
   <a href="mailto:matheuspompeo13@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" align="center" alt="Gmail icon" height="30em">
     <a href="https://www.linkedin.com/in/matheus-pompeo-dias-0a7b85255/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" align="center" alt="Linkedin icon" height="30em">
+
+       ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
