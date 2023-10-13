@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=2C77E3&center=true&vCenter=true&width=728&height=41&lines=Ol%C3%A1!+Eu+sou+o+Matheus+Pompeo%2C;Desenvolvedor+front-end!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=2C77E3&center=true&vCenter=true&width=728&height=41&lines=Ol%C3%A1!+Eu+sou+o+Matheus+Pompeo%2C;Desenvolvedor+FullStack!)](https://git.io/typing-svg)
 
 Contate-me no email: matheuspompeo13@gmail.com
 
