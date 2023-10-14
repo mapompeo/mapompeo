@@ -4,14 +4,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Contate-me no email: matheuspompeo13@gmail.com
+## Contate-me no email: matheuspompeo13@gmail.com
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mapompeo&theme=transparent&count_private=true&show_icons=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&layout=donut&theme=transparent"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Tecnologias:
+## Tecnologias:
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="HTML5 logo"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS3 logo"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript logo"/>
@@ -20,9 +21,7 @@ Contate-me no email: matheuspompeo13@gmail.com
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="Trello logo"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&style=for-the-badge" height="30" alt="Netlify logo"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mapompeo&theme=transparent" height="200em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mapompeo&theme=transparent" height="240em"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
