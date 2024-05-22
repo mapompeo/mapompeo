@@ -6,15 +6,12 @@
 
 ### Contate-me no email: matheuspompeo13@gmail.com
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mapompeo&theme=transparent&count_private=true&show_icons=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&layout=donut&theme=transparent"/>
 
 <br>
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="json logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
