@@ -1,46 +1,32 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=2C77E3&center=true&vCenter=true&width=728&height=41&lines=Ol%C3%A1!+sou+o+Matheus%2C;Desenvolvedor+de+sistemas!)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Contate-me no email: matheuspompeo13@gmail.com
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&layout=donut&theme=transparent"/>
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="json logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-<br>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34px&pause=1000&color=FFFFFF&center=true&vCenter=true&width=728&height=41&lines=👋+Olá!+Meu+nome+é+Matheus%2C;👨‍💻+Desenvolvedor+de+Sistemas!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
+<br>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mapompeo&theme=transparent" height="240em"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&locale=pt-br&layout=compact&theme=transparent&hide_border=true&title_color=FFF&text_color=FFF&bg_color=242938&border_radius=16" alt="languages graph"/>
+
+<br>
+<br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,mysql,git,github,figma"/>
+  </a>
+  
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=728&height=41&lines=👇+Entre+em+contato;Vamos+conversar+🤝)](https://git.io/typing-svg)
+
+<a href="mailto:matheuspompeo13@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+</a>
+<a href="http://linkedin.com/in/matheuspompeo" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
