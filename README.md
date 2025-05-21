@@ -21,12 +21,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=728&height=41&lines=👇+Entre+em+contato;Vamos+conversar+🤝)](https://git.io/typing-svg)
 
-<a href="mailto:matheuspompeo13@gmail.com" target="_blank">
+<a href="mailto:matheuspompeo13@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
 </a>
-<a href="http://linkedin.com/in/matheuspompeo" target="_blank">
+<a href="http://linkedin.com/in/matheuspompeo" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
 </a>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
