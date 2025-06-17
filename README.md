@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34px&pause=1000&color=FFFFFF&center=true&vCenter=true&width=728&height=41&lines=👋+Olá!+Meu+nome+é+Matheus%2C;👨‍💻+Desenvolvedor+de+Sistemas!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34px&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=41&lines=👋+Olá!+Meu+nome+é+Matheus%2C;💻+Acadêmico+de+Ciência+da+Computação!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
