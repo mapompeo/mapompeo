@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34px&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=41&lines=👋+Olá!+Meu+nome+é+Matheus%2C;💻+Acadêmico+de+Ciência+da+Computação!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34px&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=41&lines=👋+Olá!+Meu+nome+é+Matheus%2C;💻+Software+Developer!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -13,7 +13,7 @@
 <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,nodejs,express,mysql,sequelize,jest,git,github,bash,figma"/>
+    <img src="https://skillicons.dev/icons?i=cpp,py,angular,js,scss,nodejs,java,express,mysql,sequelize,git,github,bitbucket,figma"/>
   </a>
   
 <br>
