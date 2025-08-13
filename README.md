@@ -7,8 +7,8 @@
   <br>
   <br>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&locale=pt-br&layout=compact&theme=transparent&hide_border=true&title_color=FFF&text_color=FFF&bg_color=242938&border_radius=16&hide=portugol&langs_count=10&count_private=true&include_all_commits=true&include_forks=true" alt="languages graph"/>
-  
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=FFF&text_color=FFF&bg_color=242938&hide=html,css,portugol&border_radius=16&langs_count=12&count_private=true&include_all_commits=true&include_forks=true" alt="languages graph"/>
+
   <br>
   <br>
   
