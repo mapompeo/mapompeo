@@ -7,7 +7,7 @@
   <br>
   <br>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&locale=pt-br&layout=compact&theme=transparent&hide_border=true&title_color=FFF&text_color=FFF&bg_color=242938&border_radius=16" alt="languages graph"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&locale=pt-br&layout=compact&theme=transparent&hide_border=true&title_color=FFF&text_color=FFF&bg_color=242938&border_radius=16&hide=portugol&langs_count=10&count_private=true&include_all_commits=true&include_forks=true" alt="languages graph"/>
   
   <br>
   <br>
@@ -63,19 +63,19 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=728&height=41&lines=Contact+me!+👇;Let's+talk+🤝)](https://git.io/typing-svg)
   
-  <div align="center" style="margin: 20px 0;">
-    <a href="mailto:matheuspompeo13@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40" alt="gmail"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="http://linkedin.com/in/matheuspompeo" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40" alt="linkedin"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/mapompeo" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40" alt="github"/>
-    </a>
-  </div>
+  <a href="mailto:matheuspompeo13@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40" alt="gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://linkedin.com/in/matheuspompeo" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40" alt="linkedin"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mapompeo" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40" alt="github"/>
+  </a>
+  
+  <br>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
