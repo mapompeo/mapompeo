@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&color=FFFFFF&size=34px&pause=1000&center=true&vCenter=true&width=760&height=41&lines=👋+HI!+My+name+is+Matheus%2C;💻+I'm+a+Software+Developer!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&color=FFFFFF&size=34px&pause=1000&center=true&vCenter=true&width=760&height=41&lines=👋+Hello!+My+name+is+Matheus%2C;💻+I'm+a+Fullstack+Developer!)](https://git.io/typing-svg)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
@@ -21,7 +21,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,ts,java,cs,cpp&perline=3" />
+            <img src="https://skillicons.dev/icons?i=js,ts,cs,java,py&perline=3" />
           </a>
         </div>
       </td>
