@@ -7,7 +7,7 @@
   <br>
   <br>
   
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&locale=en&layout=compact&theme=transparent&hide=html,css,portugol&text_color=FFF&border_color=3D444D&title_color=FFF&border_radius=16&langs_count=12&count_private=true&include_all_commits=true&include_forks=true&cache_seconds=0" alt="languages graph"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapompeo&locale=en&layout=compact&theme=transparent&hide=html,css,portugol,hlsl,shaderlab,dockerfile&text_color=FFF&border_color=3D444D&title_color=FFF&border_radius=16&langs_count=12&count_private=true&include_all_commits=true&include_forks=true&cache_seconds=0" alt="languages graph"/>
 
   <br>
   <br>
@@ -21,7 +21,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,ts,cs,java,py&perline=3" />
+            <img src="https://skillicons.dev/icons?i=js,ts,cs,java&perline=3" />
           </a>
         </div>
       </td>
@@ -32,7 +32,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=angular,html,css,scss&perline=3" />
+            <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,scss&perline=3" />
           </a>
         </div>
       </td>
@@ -43,7 +43,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,sequelize&perline=3" />
+            <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,sequelize,prisma&perline=3" />
           </a>
         </div>
       </td>
@@ -54,7 +54,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github,mysql,postman,figma&perline=3" />
+            <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,postgres,figma&perline=3" />
           </a>
         </div>
       </td>
