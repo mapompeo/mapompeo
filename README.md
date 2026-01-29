@@ -21,7 +21,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,ts,cs,java&perline=3" />
+            <img src="https://skillicons.dev/icons?i=cs,ts,js,java&perline=3" />
           </a>
         </div>
       </td>
@@ -32,7 +32,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,scss&perline=3" />
+            <img src="https://skillicons.dev/icons?i=angular,tailwind,html,css,scss&perline=3" />
           </a>
         </div>
       </td>
@@ -43,7 +43,7 @@
         <br>
         <div align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,sequelize,prisma&perline=3" />
+            <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,sequelize,prisma&perline=3" />
           </a>
         </div>
       </td>
